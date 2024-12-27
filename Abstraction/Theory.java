@@ -4,8 +4,8 @@
 //^ It is a process of hiding the implementaion details of a system and exposing only the essential features to the user.
 
 //? Abstarction can be achived using -
-//& Abstarct class -(0-100% abstarction)
-//& Interfaces - (100% abstarction)
+//! Abstarct class -(0-100% abstarction)
+//! Interfaces - (100% abstarction)
 
 //? Rules for achiving abstraction
 //^ abstract class or interface with abstract methods
