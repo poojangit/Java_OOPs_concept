@@ -22,7 +22,6 @@
 //! class declared using abstract keyword.
 //! Objects cannot be created
 //! It can have contructor only through contructor chaining.
-//! Inheritance is not possible so we have to go with anonymous inner class
 //! It can allow both concrete and abstract methods.
 
 //^ concrete method-
