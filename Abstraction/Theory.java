@@ -7,6 +7,12 @@
 //& Abstarct class -(0-100% abstarction)
 //& Interfaces - (100% abstarction)
 
+//? Rules for achiving abstraction
+//^ abstract class or interface with abstract methods
+//^ IS-A  relationship
+//^ method overriding
+//^ upcasting
+
 //& ----------------Abstarct-----------------
 //! Abstarct is a keyword which is using with class and methods
 
