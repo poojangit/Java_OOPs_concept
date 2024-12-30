@@ -15,6 +15,12 @@
 //! polymorphism
 //! Easy maintainance
 
+//^ Use of inheritance :
+//! to avoid code dublication
+//! used to achive code reuasbility
+//! used to achieve generalization
+//! indirectly helps to achieve run time polymorphism
+
 //? Types of Inheritance
 //& Single level inheritance
 //& Multi level inheritance
