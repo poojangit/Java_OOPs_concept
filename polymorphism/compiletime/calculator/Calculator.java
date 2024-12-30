@@ -1,4 +1,4 @@
-package compiletime;
+package compiletime.calculator;
 
 public class Calculator {
     int a, b;
